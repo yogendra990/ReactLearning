@@ -11,5 +11,11 @@
     "url": "'https://github.com/yogendra990/ReactLearning.git'"
   },
   "author": "'Yogendra.Atluri'",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  },
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
 }
